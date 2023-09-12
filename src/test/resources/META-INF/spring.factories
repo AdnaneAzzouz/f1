@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = fr.cda.r20.f1.\
+    config.SqlTestContainersSpringContextCustomizerFactory
